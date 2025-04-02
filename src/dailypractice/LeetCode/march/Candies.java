@@ -1,4 +1,4 @@
-package leetcode;
+package dailypractice.LeetCode.march;
 
 import java.util.ArrayList;
 import java.util.List;

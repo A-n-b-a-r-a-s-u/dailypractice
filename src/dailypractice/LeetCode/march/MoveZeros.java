@@ -1,4 +1,4 @@
-package leetcode;
+package dailypractice.LeetCode.march;
 
 public class MoveZeros {
     public static void moveZeroes(int[] nums) {

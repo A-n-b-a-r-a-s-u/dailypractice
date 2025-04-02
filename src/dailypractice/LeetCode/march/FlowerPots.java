@@ -1,4 +1,4 @@
-package leetcode;
+package dailypractice.LeetCode.march;
 
 public class FlowerPots {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {
