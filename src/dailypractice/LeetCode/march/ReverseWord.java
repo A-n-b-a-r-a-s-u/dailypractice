@@ -1,4 +1,4 @@
-package leetcode;
+package dailypractice.LeetCode.march;
 
 public class ReverseWord {
     public static String reverseWords(String s) {
