@@ -1,4 +1,4 @@
-package leetcode;
+package dailypractice.LeetCode.march;
 
 public class Subsequence {
     public static boolean isSubsequence(String s, String t) {

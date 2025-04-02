@@ -1,4 +1,4 @@
-package leetcode;
+package dailypractice.LeetCode.march;
 
 public class TripletSeq {
     public static boolean increasingTriplet(int[] nums) {
